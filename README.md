@@ -4,5 +4,6 @@
 
 ### Технологии
 * Underscore.js
+* jQuery
 * JSON
 * Bootstrap
